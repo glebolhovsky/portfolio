@@ -1,3 +1,4 @@
-Добро пожаловать в репозиторий с портфолио!
+:fire:Добро пожаловать в репозиторий с портфолио!:fire:
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
+
